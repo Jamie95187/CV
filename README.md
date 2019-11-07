@@ -1,6 +1,6 @@
-## Your Name
+## Jamie Wong
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am an enthusiastic and energetic entry level developer, with a strong passion in problem solving. My dedication to finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me. My background
 
 ## Skills
 
@@ -30,15 +30,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Independent Studies (December 2017 - Present)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+# Coursera
 
-#### Any other qualifications
+#### Java Programming and Software Engineering Fundamentals by Duke University
 
-That in some arguable way make you a better software developer or well-rounded person
+##### Baby Names Project
+- Analysing CSV data over multiple files, more specifically the popularity of different baby names in the United States.
+
+##### Earthquakes Project
+- Parsing live earthquake data from sites.
+- Oriented object design principles, especially implementing comparable interface to sort data.
+
+#### Object Oriented Java Programming: Data Structures and Beyond (ongoing)
+
+#### Reading University (October 2010 to June 2013)
+
+##### BSc Mathematics
 
 ## Experience
 
