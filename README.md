@@ -1,6 +1,8 @@
 ## Jamie Wong
 
-I am an enthusiastic and energetic entry level developer, with a strong passion in problem solving. My dedication to finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me. My background
+I am an enthusiastic and energetic entry level developer, with a strong passion in problem solving. My dedication to finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
+
+My strong numerical background combines robust technical solutions which I love to integrate into my code. I super passionate about writing readable, tested and concise code.
 
 ## Skills
 
@@ -23,7 +25,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2019 - Current)
+
+Highly selective 16 week intensive development bootcamp
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
@@ -32,33 +36,44 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Independent Studies (December 2017 - Present)
 
-# Coursera
+#### Coursera
 
-#### Java Programming and Software Engineering Fundamentals by Duke University
+##### Java Programming and Software Engineering Fundamentals by Duke University
 
 ##### Baby Names Project
+
 - Analysing CSV data over multiple files, more specifically the popularity of different baby names in the United States.
 
 ##### Earthquakes Project
+
 - Parsing live earthquake data from sites.
 - Oriented object design principles, especially implementing comparable interface to sort data.
 
-#### Object Oriented Java Programming: Data Structures and Beyond (ongoing)
+##### Object Oriented Java Programming: Data Structures and Beyond (ongoing)
+
+#### Codelabs - Android Developer Fundamentals Course
+
+- Using Android Studio to develop functional android applications.
 
 #### Reading University (October 2010 to June 2013)
 
-##### BSc Mathematics
+ - BSc Mathematics
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Royal Mail** (September 2018 - January 2019)    
+*Mail/Package sorter*
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+- Monitored and trained new recruits.
+
+**Semi-Professional esports Athlete** (January 2016 - December 2018)   
+*DOTA 2 Strategy Game*
+
+- Regularly led coaching sessions helping upcoming young UK talents.
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+ - Bouldering
+ - Badminton
+ - Codewars / Hackerrank / Exercism
+ - Blogging - jothmamabebe.wordpress.com
