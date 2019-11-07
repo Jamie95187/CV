@@ -2,26 +2,14 @@
 
 I am an enthusiastic and energetic entry level developer, with a strong passion in problem solving. My dedication to finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
 
-My strong numerical background combines robust technical solutions which I love to integrate into my code. I super passionate about writing readable, tested and concise code.
+My strong numerical background combines robust technical solutions which I love to integrate into my code. I am super passionate about writing readable, tested and concise code. I am currently working through the first month of a high intensity developer course at [Makers Academy](https://makers.tech/).
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- *Problem Solving* - I am very enthusiastic when it comes to solving any sort problems. From being stuck on a route in bouldering, to solving larger coding problems I am enthralled to get my hands dirty and dive straight in. The fascinating design of any of the solution is the multiple ways one can come to a solution, particularly in coding.
+- *Superb Communicator* - In my previous roles I have learnt how to interact with different levels of management, from training new recruits at Royal Mail to reporting back to senior members at the warehouse. Vigorous pair programming exercises on at Makers have taught us how to convey our ideas amongst a diverse group of cohorts. I keep my blog up to date, maintaining a record of my thoughts and what I've learnt on the course.
+- *Excellent Team Player* - Strategised concepts in a team based video game and maintained a cohesive unit to achieve national success. Consistently comfortable in finding my place in a team, whether that is following instructions from a leader or providing a leadership when the situation arises.
+- *Adaptability* - I've always welcomed new environments, new challenges, and new languages. Engaging in a dynamic setting at Makers has equipped us with skills that are transferable to any new team. Ranging from working with a very diverse set of students or solo on a given task.
 
 ## Education
 
@@ -69,11 +57,12 @@ Highly selective 16 week intensive development bootcamp
 **Semi-Professional esports Athlete** (January 2016 - December 2018)   
 *DOTA 2 Strategy Game*
 
+- Captained a team to represent GB on an international stage.
 - Regularly led coaching sessions helping upcoming young UK talents.
 
 ## Hobbies
 
  - Bouldering
  - Badminton
- - Codewars / Hackerrank / Exercism
- - Blogging - jothmamabebe.wordpress.com
+ - [Codewars](https://www.codewars.com/kata/the-observed-pin/ruby) / [Hackerrank](https://www.hackerrank.com/) / [Exercism](https://exercism.io/my/tracks/ruby)
+ - Blogging - writing my journey at Makers, [link](jothmamabebe.wordpress.com)
