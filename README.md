@@ -6,10 +6,19 @@ My strong numerical background combines robust technical solutions which I love 
 
 ## Skills
 
-- *Problem Solving* - I am very enthusiastic when it comes to solving any sort problems. From being stuck on a route in bouldering, to solving larger coding problems I am enthralled to get my hands dirty and dive straight in. The fascinating design of any of the solution is the multiple ways one can come to a solution, particularly in coding.
+- *Problem Solving* - I am very enthusiastic when it comes to solving any sort problems. From being stuck on a route in bouldering, to solving larger coding problems I am enthralled to get my hands dirty and dive straight in. The fascinating design of any of the solution is the multiple ways one can come to a solution, particularly in programming.
 - *Superb Communicator* - In my previous roles I have learnt how to interact with different levels of management, from training new recruits at Royal Mail to reporting back to senior members at the warehouse. Vigorous pair programming exercises on at Makers have taught us how to convey our ideas amongst a diverse group of cohorts. I keep my blog up to date, maintaining a record of my thoughts and what I've learnt on the course.
 - *Excellent Team Player* - Strategised concepts in a team based video game and maintained a cohesive unit to achieve national success. Consistently comfortable in finding my place in a team, whether that is following instructions from a leader or providing a leadership when the situation arises.
 - *Adaptability* - I've always welcomed new environments, new challenges, and new languages. Engaging in a dynamic setting at Makers has equipped us with skills that are transferable to any new team. Ranging from working with a very diverse set of students or solo on a given task.
+
+- *Tech Skills*: Java, BlueJ, Eclipse, Android Studios, JUnit, Ruby, Windows OS, Microsoft Office
+
+## Projects
+
+| Project Name | Description | Technologies used |
+|--------------|-------------|-------------------|
+| Pet Monitoring Android App | A personalised mobile application that allows the user to record a diary for walking their dog. | Java, Android Studios, Gradle |
+| Monster Game | A text based game that prints results after each iteration | Java, Eclipse |
 
 ## Education
 
@@ -41,7 +50,7 @@ Highly selective 16 week intensive development bootcamp
 
 #### Codelabs - Android Developer Fundamentals Course
 
-- Using Android Studio to develop functional android applications.
+- Using Android Studio to develop functional applications.
 
 #### Reading University (October 2010 to June 2013)
 
