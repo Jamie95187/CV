@@ -74,4 +74,4 @@ Highly selective 16 week intensive development bootcamp
  - *Bouldering*
  - *Badminton*
  - *Coding Exercises* - [Codewars](https://www.codewars.com/kata/the-observed-pin/ruby), [Hackerrank](https://www.hackerrank.com/), [Exercism](https://exercism.io/my/tracks/ruby)
- - *Blogging* - writing my journey at Makers, [link](jothmamabebe.wordpress.com)
+
