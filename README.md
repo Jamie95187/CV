@@ -58,7 +58,7 @@ Highly selective 16 week intensive development bootcamp
 
 ## Experience
 
-**Royal Mail** (September 2018 - January 2019)    
+**Royal Mail** (September 2018 -  2019)    
 *Mail/Package sorter*
 
 - Monitored and trained new recruits.
