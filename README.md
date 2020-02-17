@@ -45,7 +45,7 @@ Highly selective 16 week intensive development bootcamp
 
 ##### Earthquakes Project
 
-- Parsing live earthquake data from sites.
+- Parsing live earthquake data from a public API.
 - Oriented object design principles, especially implementing comparable interface to sort data.
 
 ##### Object Oriented Java Programming: Data Structures and Beyond (ongoing)
