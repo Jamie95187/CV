@@ -1,6 +1,6 @@
 ## Jamie Wong
 
-| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experiences](#Experience) |
+| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | 
 
 I am an enthusiastic and energetic full stack developer, with a strong passion in problem solving. My dedication to finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
 
