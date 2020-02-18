@@ -1,6 +1,6 @@
 ## Jamie Wong
 
-| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | 
+| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | (LinkedIn)[https://www.linkedin.com/in/jamie-wong-1509911a2/]
 
 I am an enthusiastic, energetic full stack developer, with a strong passion in problem solving. My devotion towards finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
 
@@ -77,6 +77,7 @@ Highly selective 16 week intensive development bootcamp
 
  - *Bouldering* - I really enjoying bouldering as it is both a physical and mental workout that combines both aspects throughout the process of tackling a given route.
  - *Badminton* - Being the most fast paced racquet sport, badminton has helped me gain quick reactions around the court and an acute mind.
+ - *Board/Card Games* - Love to learn new games and play them in a non COMPETITIVE environment.
  - *Cooking* - Because who doesn't adore food?
  - *Coding Exercises* - [Codewars](https://www.codewars.com/kata/the-observed-pin/ruby), [Hackerrank](https://www.hackerrank.com/), [Exercism](https://exercism.io/my/tracks/ruby)
 
