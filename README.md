@@ -89,5 +89,5 @@ Highly selective 16 week intensive development bootcamp
 ## Contact
 
 - [GitHub](https://github.com/Jamie95187)
-- [Codewars](https://www.codewars.com/dashboard)
+- [Codewars](hhttps://www.codewars.com/users/jamiewong95187)
 - [LinkedIn](https://www.linkedin.com/in/jamie-wong-1509911a2/)
