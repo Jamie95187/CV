@@ -24,18 +24,20 @@ My strong numerical background combines robust technical solutions which I love 
 
 ## Education
 
-#### Makers Academy (September 2019 - Current)
+### Makers Academy (September 2019 - Current)
 
 Highly selective 16 week intensive development bootcamp
-- Rotating daily pairs
+
+- Rotating pair programming daily
 - Working with diverse team members in 3 different group projects
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
+- SQL, PostGreSQL
 - RSpec, Jasmine
 - MongoDB, Express, React, Node
 
-#### Independent Studies (December 2017 - Present)
+### Independent Studies (December 2017 - Present)
 
 #### Coursera
 
@@ -54,7 +56,7 @@ Highly selective 16 week intensive development bootcamp
 
 - Using Android Studio to develop functional applications.
 
-#### Reading University (October 2010 to June 2013)
+### Reading University (October 2010 to June 2013)
 
  - BSc Mathematics
 
