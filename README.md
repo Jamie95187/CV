@@ -33,14 +33,11 @@ Highly selective 16 week intensive development bootcamp
 - Rotating pair programming daily
 - Working with diverse team members in 3 different group projects
 - OOP, TDD, MVC, DDD
-- Agile
-- XP values
-- Ruby, Rails
-- JavaScript
+- Agile, XP values
+- Ruby, Rails, JavaScript
 - SQL, PostGreSQL
 - RSpec, Jasmine, Jest, Enzyme
 - MongoDB, Express, React, Node
-- CI/CD (Travis/Heroku)
 
 ### Independent Studies (December 2017 - Present)
 
