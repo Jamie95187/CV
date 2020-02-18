@@ -75,7 +75,8 @@ Highly selective 16 week intensive development bootcamp
 
 ## Hobbies
 
- - *Bouldering*
- - *Badminton*
+ - *Bouldering* - I really enjoying bouldering as it is both a physical and mental workout that combines both aspects throughout the process of tackling a given route.
+ - *Badminton* - Being one of the most fast pace racquet sports, badminton has helpd me gain quick reactions and an agile dyanmic mind.
+ - *Cooking* - Who doesn't adore food?
  - *Coding Exercises* - [Codewars](https://www.codewars.com/kata/the-observed-pin/ruby), [Hackerrank](https://www.hackerrank.com/), [Exercism](https://exercism.io/my/tracks/ruby)
 
