@@ -2,7 +2,7 @@
 
 | [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Hobbies](#Hobbies) | 
 
-I am an enthusiastic and energetic full stack developer, with a strong passion in problem solving. My dedication to finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
+I am an enthusiastic, energetic full stack developer, with a strong passion in problem solving. My devotion towards finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
 
 My strong numerical background combines robust technical solutions which I love to integrate into my code. I am super passionate about writing readable, tested and concise code. I have recently finished a a high intensity developer course at [Makers Academy](https://makers.tech/).
 
