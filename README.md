@@ -1,6 +1,6 @@
 ## Jamie Wong
 
-| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [LinkedIn](https://www.linkedin.com/in/jamie-wong-1509911a2/)
+| [Skills](#Skills) | [Projects](#Projects) | [Education](#Education) | [Experience](#Experience) | [Interests](#Interests) | [Contact](#Contacts) |
 
 I am an enthusiastic, energetic full stack developer, with a strong passion in problem solving. My devotion towards finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
 
@@ -86,3 +86,8 @@ Highly selective 16 week intensive development bootcamp
  - *Cooking* - Because who doesn't adore food?
  - *Coding Exercises* - [Codewars](https://www.codewars.com/kata/the-observed-pin/ruby), [Hackerrank](https://www.hackerrank.com/), [Exercism](https://exercism.io/my/tracks/ruby)
 
+## Contact
+
+- [GitHub](https://github.com/Jamie95187)
+- [Email](jamiewong63@googlemail.com)
+- [LinkedIn](https://www.linkedin.com/in/jamie-wong-1509911a2/)
