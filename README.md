@@ -27,11 +27,13 @@ My strong numerical background combines robust technical solutions which I love 
 #### Makers Academy (September 2019 - Current)
 
 Highly selective 16 week intensive development bootcamp
-- pair programming 
+- Rotating daily pairs
+- Working with diverse team members in 3 different group projects
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+- MongoDB, Express, React, Node
 
 #### Independent Studies (December 2017 - Present)
 
