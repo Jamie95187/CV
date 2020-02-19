@@ -79,7 +79,7 @@ Highly selective 16 week intensive development bootcamp
 
  - *Bouldering* - I really enjoying bouldering as it is both a physical and mental workout that combines both aspects throughout the process of tackling a given route.
  - *Badminton* - Being the most fast paced racquet sport, badminton has helped me gain quick reactions around the court and an acute mind.
- - *Board/Card Games* - Love to learn new games and play in a non COMPETITIVE environment.
+ - *Board/Card Games* - Love to learn new games
  - *Cooking* - Because who doesn't adore food?
  - *Coding Exercises* - [Codewars](https://www.codewars.com/kata/the-observed-pin/ruby), [Hackerrank](https://www.hackerrank.com/), [Exercism](https://exercism.io/my/tracks/ruby)
 
