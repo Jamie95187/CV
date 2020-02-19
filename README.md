@@ -4,7 +4,7 @@
 
 I am an enthusiastic, energetic full stack developer, with a strong passion in problem solving. My devotion towards finding solutions instinctively led me to engage myself in the world of coding. The limitless possible resolutions to a given project intrigues me.
 
-My strong numerical background combines robust technical solutions which I love to integrate into my code. I am super passionate about writing readable, testable, adpatable code. I have recently finished a a high intensity developer course at [Makers Academy](https://makers.tech/).
+My strong numerical background combines robust technical solutions which I love to integrate into my code. I am super passionate about writing readable, testable, adaptable code. I have recently finished a high intensity developer course at [Makers Academy](https://makers.tech/).
 
 ## Skills
 
