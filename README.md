@@ -13,7 +13,7 @@ My strong numerical background combines robust technical solutions which I love 
 - *Excellent Team Player* - Strategised concepts in a team based video game and maintained a cohesive unit to achieve national success. Consistently comfortable in finding my place in a team, whether that is following instructions from a leader or providing a leadership when the situation arises.
 - *Adaptability* - I've always welcomed new environments, new challenges, and new languages. Engaging in dynamic settings at Makers has equipped us with skills that are transferable to any new team. Ranging from working with a very diverse set of students or solo on a given task.
 
-- *Tech Skills*: Java, BlueJ, Eclipse, Android Studios, JUnit, Ruby, JavaScript, PSQL, React
+- *Tech Skills*: Java, BlueJ, Eclipse, Android Studios, JUnit, Ruby, JavaScript, PSQL, React, Rails
 
 ## Projects
 
