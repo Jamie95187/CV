@@ -8,10 +8,10 @@ My strong numerical background combines robust technical solutions which I love 
 
 ## Skills
 
-- *Problem Solving* - I am very enthusiastic when it comes to solving any sort of problems. From being stuck on a route in bouldering, to solving larger coding problems I am enthralled to get my hands dirty and dive straight in. The fascinating design of any of the solution and the multiple ways one can overcome them in captivates my interest.
+- *Problem Solver* - I am very enthusiastic when it comes to solving any sort of problems. From being stuck on a route in bouldering, to solving larger coding problems I am enthralled to get my hands dirty and dive straight in. The fascinating design of any of the solution and the multiple ways one can overcome them in captivates my interest.
 - *Superb Communicator* - In my previous roles I have learnt how to interact with different levels of management, from training new recruits at Royal Mail to reporting back to senior members at the warehouse. Vigorous pair programming exercises at Makers have taught us how to convey our ideas amongst a diverse group of cohorts.
 - *Excellent Team Player* - Strategised concepts in a team based video game and maintained a cohesive unit to achieve national success. Consistently comfortable in finding my place in a team, whether that is following instructions from a leader or providing a leadership when the situation arises.
-- *Adaptability* - I've always welcomed new environments, new challenges, and new languages. Engaging in dynamic settings at Makers has equipped us with skills that are transferable to any new team. Ranging from working with a very diverse set of students or solo on a given task.
+- *Highly adaptable* - I've always welcomed new environments, new challenges, and new languages. Engaging in dynamic settings at Makers has equipped us with skills that are transferable to any new team. Ranging from working with a very diverse set of students or solo on a given task.
 
 - *Tech Skills*: Java, BlueJ, Eclipse, Android Studios, JUnit, Ruby, JavaScript, PSQL, React, Rails
 
