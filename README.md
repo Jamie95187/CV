@@ -19,10 +19,10 @@ My strong numerical background combines robust technical solutions which I love 
 
 | Project Name | Description | Technologies used |
 |--------------|-------------|-------------------|
-| Pet Monitoring Android App | A personalised mobile application that allows the user to record a diary for walking their dog. | Java, Android Studios, Gradle |
-| Monster Game | A text based game that prints results after each iteration | Java, Eclipse |
-| Bowling Score Card | A single page application where a user can input and keep track of their bowling score | JavaScript, Jasmine |
-| Mind over cells | A visualization of a cellular automata; based on Conway's Game of Life | MERN stack, TravisCI |
+| [Pet Monitoring Android App](https://github.com/Jamie95187/PetMonitoring) | A personalised mobile application that allows the user to record a diary for walking their dog. | Java, Android Studios, Gradle |
+| [Monster Game](https://github.com/Jamie95187/Monster_game) | A text based game that prints results after each iteration | Java, Eclipse |
+| [Bowling Score Card](https://github.com/Jamie95187/bowling-challenge) | A single page application where a user can input and keep track of their bowling score | JavaScript, Jasmine |
+| [Mind over cells](https://github.com/Hyan18/the-css) | A visualization of a cellular automata; based on Conway's Game of Life | MERN stack, TravisCI |
 
 ## Education
 
@@ -44,10 +44,6 @@ Highly selective 16 week intensive development bootcamp
 #### Coursera
 
 ##### Java Programming and Software Engineering Fundamentals by Duke University
-
-##### Baby Names Project
-
-- Analysing CSV data over multiple files, more specifically the popularity of different baby names in the United States.
 
 ##### Earthquakes Project
 
