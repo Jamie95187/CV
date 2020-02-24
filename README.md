@@ -19,7 +19,6 @@ My strong numerical background combines robust technical solutions which I love 
 
 | Project Name | Description | Technologies used |
 |--------------|-------------|-------------------|
-| [Pet Monitoring Android App](https://github.com/Jamie95187/PetMonitoring) | A personalised mobile application that allows the user to record a diary for walking their dog. | Java, Android Studios, Gradle |
 | [Monster Game](https://github.com/Jamie95187/Monster_game) | A text based game that prints results after each iteration | Java, Eclipse |
 | [Bank Tech Test (Ruby)](https://github.com/Jamie95187/BankTechTest) | A program that users can print a statement of their transactions | Ruby, RSpec |
 | [Bowling Score Card](https://github.com/Jamie95187/bowling-challenge) | A single page application where a user can input and keep track of their bowling score | JavaScript, Jasmine |
