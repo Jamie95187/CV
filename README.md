@@ -31,7 +31,7 @@ Highly selective 16 week intensive development bootcamp
 
 - Rotating pair programming daily
 - Working with diverse team members in 3 different group projects
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, BDD
 - Agile, XP values
 - Ruby, Rails, JavaScript
 - SQL, PostGreSQL
