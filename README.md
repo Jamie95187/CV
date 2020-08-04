@@ -22,7 +22,7 @@ My strong numerical background combines robust technical solutions which I love 
 | [Bank Tech Test (Ruby)](https://github.com/Jamie95187/BankTechTest) | A program that users can print a statement of their transactions | Ruby, RSpec |
 | [Bowling Score Card](https://github.com/Jamie95187/bowling-challenge) | A single page application where a user can input and keep track of their bowling score | JavaScript, Jasmine |
 | [Mind over cells](https://github.com/Hyan18/the-css) | A visualization of a cellular automata; based on Conway's Game of Life | MERN stack, TravisCI |
-| [Badminton League(ongoing)](https://github.com/Jamie95187/badLeague) | An application that users can maintain a local badminton league | React, FireBase |
+| [Badminton League (ongoing)](https://github.com/Jamie95187/badLeague) | An application that users can maintain a local badminton league | React, FireBase |
 
 ## Education
 
