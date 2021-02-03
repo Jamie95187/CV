@@ -71,6 +71,11 @@ Highly selective 16 week intensive development bootcamp
 - Captained a team to represent GB on an international stage.
 - Regularly led coaching sessions helping upcoming young UK talents.
 
+**Ocean Palace/City Restaurant** (Januray 2014 - December 2016)
+*Waiter/Line-Cook*
+- Experienced how to cooperate, train, and collaborate with different types of coworkers under pressured environments
+- Practiced time managment skills 
+
 ## Interests
 
  - ***Bouldering*** - I really enjoying bouldering as it is both a physical and mental workout that combines both aspects throughout the process of tackling a given route.
