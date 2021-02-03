@@ -72,6 +72,7 @@ Highly selective 16 week intensive development bootcamp
 - Regularly led coaching sessions helping upcoming young UK talents.
 
 **Ocean Palace/City Restaurant** (Januray 2014 - December 2016)
+
 *Waiter/Line-Cook*
 - Experienced how to cooperate, train, and collaborate with different types of coworkers under pressured environments
 - Practiced time managment skills 
