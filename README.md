@@ -74,7 +74,7 @@ Highly selective 16 week intensive development bootcamp
 **Ocean Palace/City Restaurant** (Januray 2014 - December 2016) <br/>
 *Waiter/Line-Cook*
 
-- Cooperate, train, and collaborate with different types of coworkers under pressured environment
+- Learning, training, and collaborating with different coworkers under pressured environment
 - Time management skills 
 
 ## Interests
